@@ -9,7 +9,9 @@
  *
  * Desc: This file contains all function prototypes and struct
  * type declarations used for the printf Group project in the
- * ALX software engineering program.
+ * ALX software engineering program
+ * Authors: Amberbir Mehabaw (AmberbirMehabaw). //
+ *
  */
 
 int _putchar(char c);
