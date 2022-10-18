@@ -212,8 +212,3 @@ Handle the following custom conversion specifier:
 
 ### 15. *
 All the above options work well together.
-
-### Authors &copy;
-
-- Abrham Taye https://github.com/Abrhamtaye7
-- Gizachew Bayness https://github.com/eleccrazy
